@@ -1,0 +1,2 @@
+# feature-fusion-word-importance
+This project demonstrates an early feature fusion strategy for combining prosodic and lexical representations of speech for predicting importance of words in spoken dialogues for understanding its meaning. The model operates on human-annotated corpus of word importance for its training and evaluation. The corpus can be downloaded from: http://latlab.ist.rit.edu/lrec2018
